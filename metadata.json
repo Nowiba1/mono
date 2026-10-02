@@ -1,0 +1,6 @@
+{
+  "name": "Empire City - Premium Board Game",
+  "description": "A mobile-first property trading strategy board game featuring 8 districts, original characters, 3D dice, and full bot/multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
